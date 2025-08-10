@@ -1,3 +1,4 @@
+![logo] (https://github.com/Paras9771/Paras9771/blob/main/image.jpg)
 <h1 align="center">Hi 👋, I'm Paras Tomar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
