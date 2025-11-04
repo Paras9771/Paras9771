@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Data Structures and Algorithms, React.js**
 
-- 👨‍💻 All of my projects are available at [https://parasportfolio12.netlify.app/](https://parasportfolio12.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://parasportfolio12.netlify.app/](https://myprotfolioworks.netlify.app/)
 
 - 💬 Ask me about **Hi, I’m Paras Tomar, a CS student passionate about coding, web development, and solving problems with Java and JavaScript.**
 
